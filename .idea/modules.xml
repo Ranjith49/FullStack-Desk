@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TheDesk.iml" filepath="$PROJECT_DIR$/TheDesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FullStack-Desk.iml" filepath="$PROJECT_DIR$/.idea/FullStack-Desk.iml" />
     </modules>
   </component>
 </project>
